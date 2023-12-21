@@ -1,0 +1,16 @@
+.logo {
+    margin: 0;
+    padding: 0;
+}
+
+
+.container-header {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#main-header {
+    padding: 20px 0 20px 0 !important;
+}
